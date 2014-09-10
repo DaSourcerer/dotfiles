@@ -1,3 +1,6 @@
 [user]
 	name = DaSourcerer
 	email = webmaster@dasourcerer.net
+
+[log]
+	abbrevCommit = true
