@@ -5,3 +5,6 @@
 [log]
 	abbrevCommit = true
 	date = relative
+
+[http]
+	sslVerify = true
