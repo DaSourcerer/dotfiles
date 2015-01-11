@@ -1,7 +1,3 @@
 [submodule ".local/antigen"]
-<<<<<<< HEAD
 	path = .local/share/antigen
-=======
-	path = .local/antigen
->>>>>>> b76469b... add zsh-antigen
 	url = https://github.com/zsh-users/antigen.git
